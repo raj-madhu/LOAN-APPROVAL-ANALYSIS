@@ -1,1 +1,16 @@
 
+## How to run
+1. Clone repo
+2. Install deps: `pip install -r requirements.txt`
+3. Open notebook: `jupyter notebook notebooks/Loan_Approval_Analysis.ipynb`
+
+## Dashboard
+- Screenshots in `/images`
+- PBIX: `dashboard/dashboard.pbix` (or view via public link: <add link>)
+
+## Results
+- Slide deck: `presentation/Loan Approval Analysis.pptx`
+- Summary: *Loans are larger among married graduates; credit history is key; urban/semi-urban demand is higher.*
+
+---
+
